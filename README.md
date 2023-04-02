@@ -6,6 +6,7 @@ Made With JSP Servelet
 It is based on OCEAN Model 
 
 **Introduction to OCEAN Model**
+
 The OCEAN Model Hiring Web Application is a tool designed to help companies and organizations with their recruitment process. The application is based on the OCEAN Model of personality, which is a widely used framework for assessing personality traits. The OCEAN Model stands for:
 
 Openness
